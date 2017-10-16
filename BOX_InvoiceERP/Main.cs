@@ -26,20 +26,20 @@ namespace BOX_InvoiceERP
             se.SkinAllForm = true;
             se.SkinFile = Path.Combine(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, ""), "GlassBrown.ssk");
             #region Noway
-            DateTime oldDate = DateTime.Now;
-            DateTime dt3;
-            string endday = DateTime.Now.ToString("yyyy/MM/dd");
-            dt3 = Convert.ToDateTime(endday);
-            DateTime dt2;
-            dt2 = Convert.ToDateTime("2017/10/18");
+            //DateTime oldDate = DateTime.Now;
+            //DateTime dt3;
+            //string endday = DateTime.Now.ToString("yyyy/MM/dd");
+            //dt3 = Convert.ToDateTime(endday);
+            //DateTime dt2;
+            //dt2 = Convert.ToDateTime("2017/10/18");
 
-            TimeSpan ts = dt2 - dt3;
-            int timeTotal = ts.Days;
-            if (timeTotal < 0)
-            {
-                MessageBox.Show("Please Contact your administrator !");
-                this.Close();
-            }
+            //TimeSpan ts = dt2 - dt3;
+            //int timeTotal = ts.Days;
+            //if (timeTotal < 0)
+            //{
+            //    MessageBox.Show("Please Contact your administrator !");
+            //    this.Close();
+            //}
             #endregion
 
         }
