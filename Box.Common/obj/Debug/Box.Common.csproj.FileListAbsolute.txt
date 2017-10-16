@@ -1,0 +1,9 @@
+C:\mysteap\work_office\ProjectOut\BJ 箱单发票报关明细\BOX_InvoiceERP\Box.Common\bin\Debug\Box.Common.dll
+C:\mysteap\work_office\ProjectOut\BJ 箱单发票报关明细\BOX_InvoiceERP\Box.Common\bin\Debug\Box.Common.pdb
+C:\mysteap\work_office\ProjectOut\BJ 箱单发票报关明细\BOX_InvoiceERP\Box.Common\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\mysteap\work_office\ProjectOut\BJ 箱单发票报关明细\BOX_InvoiceERP\Box.Common\bin\Debug\office.dll
+C:\mysteap\work_office\ProjectOut\BJ 箱单发票报关明细\BOX_InvoiceERP\Box.Common\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\mysteap\work_office\ProjectOut\BJ 箱单发票报关明细\BOX_InvoiceERP\Box.Common\bin\Debug\office.xml
+C:\mysteap\work_office\ProjectOut\BJ 箱单发票报关明细\BOX_InvoiceERP\Box.Common\obj\Debug\Box.Common.dll
+C:\mysteap\work_office\ProjectOut\BJ 箱单发票报关明细\BOX_InvoiceERP\Box.Common\obj\Debug\Box.Common.pdb
+C:\mysteap\work_office\ProjectOut\BJ 箱单发票报关明细\BOX_InvoiceERP\Box.Common\obj\Debug\Box.Common.csprojResolveAssemblyReference.cache

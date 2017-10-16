@@ -1,0 +1,249 @@
+2017-10-13 10:34:42,934 [10] FATAL ProcessLogger [(null)] - System Start 10/13/2017 10:34:42
+2017-10-13 10:48:05,920 [9] FATAL ProcessLogger [(null)] - System Start 10/13/2017 10:48:05
+2017-10-13 10:48:25,367 [3] FATAL ProcessLogger [(null)] - System Start 10/13/2017 10:48:25
+2017-10-13 10:48:25,367 [3] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 10:48:25
+2017-10-13 10:48:25,369 [3] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 10:48:25
+2017-10-13 10:48:27,214 [3] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 Data end10/13/2017 10:48:27
+2017-10-13 10:49:48,756 [10] FATAL ProcessLogger [(null)] - System Start 10/13/2017 10:49:48
+2017-10-13 10:49:53,077 [6] FATAL ProcessLogger [(null)] - System Start 10/13/2017 10:49:53
+2017-10-13 10:49:53,077 [6] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 10:49:53
+2017-10-13 10:49:53,079 [6] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 10:49:53
+2017-10-13 10:49:54,911 [6] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 Data end10/13/2017 10:49:54
+2017-10-13 10:54:38,623 [10] FATAL ProcessLogger [(null)] - System Start 10/13/2017 10:54:38
+2017-10-13 10:54:43,506 [6] FATAL ProcessLogger [(null)] - System Start 10/13/2017 10:54:43
+2017-10-13 10:54:43,506 [6] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 10:54:43
+2017-10-13 10:54:43,508 [6] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 10:54:43
+2017-10-13 10:54:45,664 [6] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 10:54:45
+2017-10-13 10:55:30,329 [9] FATAL ProcessLogger [(null)] - System Start 10/13/2017 10:55:30
+2017-10-13 10:55:33,962 [6] FATAL ProcessLogger [(null)] - System Start 10/13/2017 10:55:33
+2017-10-13 10:55:33,962 [6] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 10:55:33
+2017-10-13 10:55:33,963 [6] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 10:55:33
+2017-10-13 10:55:35,845 [6] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 10:55:35
+2017-10-13 10:55:41,309 [6] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 10:55:41
+2017-10-13 10:55:41,309 [6] FATAL ProcessLogger [(null)] - 1006-- Input finish10/13/2017 10:55:41
+2017-10-13 11:08:13,081 [9] FATAL ProcessLogger [(null)] - System Start 10/13/2017 11:08:13
+2017-10-13 11:08:18,724 [3] FATAL ProcessLogger [(null)] - System Start 10/13/2017 11:08:18
+2017-10-13 11:08:18,724 [3] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 11:08:18
+2017-10-13 11:08:18,726 [3] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 11:08:18
+2017-10-13 11:08:20,420 [3] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 11:08:20
+2017-10-13 11:08:20,557 [3] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 11:08:20
+2017-10-13 11:08:20,557 [3] FATAL ProcessLogger [(null)] - 1006-- Input finish10/13/2017 11:08:20
+2017-10-13 11:27:03,370 [9] FATAL ProcessLogger [(null)] - System Start 10/13/2017 11:27:03
+2017-10-13 11:27:08,416 [3] FATAL ProcessLogger [(null)] - System Start 10/13/2017 11:27:08
+2017-10-13 11:27:08,417 [3] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 11:27:08
+2017-10-13 11:27:08,419 [3] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 11:27:08
+2017-10-13 11:27:10,192 [3] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 11:27:10
+2017-10-13 11:27:10,339 [3] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 11:27:10
+2017-10-13 11:47:18,399 [9] FATAL ProcessLogger [(null)] - System Start 10/13/2017 11:47:18
+2017-10-13 11:47:23,732 [3] FATAL ProcessLogger [(null)] - System Start 10/13/2017 11:47:23
+2017-10-13 11:47:23,732 [3] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 11:47:23
+2017-10-13 11:47:23,737 [3] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 11:47:23
+2017-10-13 11:47:28,559 [3] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 11:47:28
+2017-10-13 11:47:28,855 [3] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 11:47:28
+2017-10-13 12:05:33,903 [8] FATAL ProcessLogger [(null)] - System Start 10/13/2017 12:05:33
+2017-10-13 12:05:38,239 [9] FATAL ProcessLogger [(null)] - System Start 10/13/2017 12:05:38
+2017-10-13 12:05:38,239 [9] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 12:05:38
+2017-10-13 12:05:38,242 [9] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 12:05:38
+2017-10-13 12:05:40,412 [9] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 12:05:40
+2017-10-13 12:05:40,570 [9] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 12:05:40
+2017-10-13 12:05:47,780 [9] FATAL ProcessLogger [(null)] - 1006-- Input finish10/13/2017 12:05:47
+2017-10-13 12:11:19,148 [10] FATAL ProcessLogger [(null)] - System Start 10/13/2017 12:11:19
+2017-10-13 12:11:19,148 [10] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 12:11:19
+2017-10-13 12:11:19,148 [10] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 12:11:19
+2017-10-13 12:11:20,926 [10] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 12:11:20
+2017-10-13 12:11:21,059 [10] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 12:11:21
+2017-10-13 12:12:05,919 [9] FATAL ProcessLogger [(null)] - System Start 10/13/2017 12:12:05
+2017-10-13 12:12:11,923 [6] FATAL ProcessLogger [(null)] - System Start 10/13/2017 12:12:11
+2017-10-13 12:12:11,924 [6] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 12:12:11
+2017-10-13 12:12:11,927 [6] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 12:12:11
+2017-10-13 12:12:13,797 [6] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 12:12:13
+2017-10-13 12:12:13,951 [6] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 12:12:13
+2017-10-13 12:13:46,956 [10] FATAL ProcessLogger [(null)] - System Start 10/13/2017 12:13:46
+2017-10-13 12:13:52,213 [6] FATAL ProcessLogger [(null)] - System Start 10/13/2017 12:13:52
+2017-10-13 12:13:52,213 [6] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 12:13:52
+2017-10-13 12:13:52,216 [6] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 12:13:52
+2017-10-13 12:13:54,059 [6] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 12:13:54
+2017-10-13 12:13:54,200 [6] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 12:13:54
+2017-10-13 12:13:58,033 [6] FATAL ProcessLogger [(null)] - 1006-- Input finish10/13/2017 12:13:58
+2017-10-13 13:19:49,239 [10] FATAL ProcessLogger [(null)] - System Start 10/13/2017 13:19:49
+2017-10-13 13:19:55,084 [6] FATAL ProcessLogger [(null)] - System Start 10/13/2017 13:19:55
+2017-10-13 13:19:55,084 [6] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 13:19:55
+2017-10-13 13:19:55,088 [6] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 13:19:55
+2017-10-13 13:19:57,636 [6] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 13:19:57
+2017-10-13 13:19:57,812 [6] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 13:19:57
+2017-10-13 13:21:43,296 [9] FATAL ProcessLogger [(null)] - System Start 10/13/2017 13:21:43
+2017-10-13 13:21:49,469 [6] FATAL ProcessLogger [(null)] - System Start 10/13/2017 13:21:49
+2017-10-13 13:21:49,469 [6] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 13:21:49
+2017-10-13 13:21:49,473 [6] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 13:21:49
+2017-10-13 13:21:51,573 [6] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 13:21:51
+2017-10-13 13:21:51,731 [6] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 13:21:51
+2017-10-13 13:30:57,888 [9] FATAL ProcessLogger [(null)] - System Start 10/13/2017 13:30:57
+2017-10-13 13:31:03,554 [3] FATAL ProcessLogger [(null)] - System Start 10/13/2017 13:31:03
+2017-10-13 13:31:03,554 [3] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 13:31:03
+2017-10-13 13:31:03,557 [3] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 13:31:03
+2017-10-13 13:31:05,683 [3] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 13:31:05
+2017-10-13 13:31:05,859 [3] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 13:31:05
+2017-10-13 14:00:06,916 [10] FATAL ProcessLogger [(null)] - System Start 10/13/2017 14:00:06
+2017-10-13 14:00:12,320 [3] FATAL ProcessLogger [(null)] - System Start 10/13/2017 14:00:12
+2017-10-13 14:00:12,320 [3] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 14:00:12
+2017-10-13 14:00:12,326 [3] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 14:00:12
+2017-10-13 14:00:14,290 [3] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 14:00:14
+2017-10-13 14:00:14,534 [3] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 14:00:14
+2017-10-13 14:01:29,806 [10] FATAL ProcessLogger [(null)] - System Start 10/13/2017 14:01:29
+2017-10-13 14:01:35,133 [6] FATAL ProcessLogger [(null)] - System Start 10/13/2017 14:01:35
+2017-10-13 14:01:35,134 [6] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 14:01:35
+2017-10-13 14:01:35,138 [6] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 14:01:35
+2017-10-13 14:01:36,908 [6] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 14:01:36
+2017-10-13 14:01:37,081 [6] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 14:01:37
+2017-10-13 14:07:26,494 [8] FATAL ProcessLogger [(null)] - System Start 10/13/2017 14:07:26
+2017-10-13 14:07:32,491 [9] FATAL ProcessLogger [(null)] - System Start 10/13/2017 14:07:32
+2017-10-13 14:07:32,491 [9] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 14:07:32
+2017-10-13 14:07:32,497 [9] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 14:07:32
+2017-10-13 14:07:34,275 [9] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 14:07:34
+2017-10-13 14:07:34,432 [9] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 14:07:34
+2017-10-13 14:15:08,656 [1] FATAL ProcessLogger [(null)] - System Start 10/13/2017 14:15:08
+2017-10-13 14:15:16,930 [3] FATAL ProcessLogger [(null)] - System Start 10/13/2017 14:15:16
+2017-10-13 14:15:16,930 [3] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 14:15:16
+2017-10-13 14:15:16,944 [3] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 14:15:16
+2017-10-13 14:15:18,735 [3] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 14:15:18
+2017-10-13 14:15:18,880 [3] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 14:15:18
+2017-10-13 14:15:26,104 [3] FATAL ProcessLogger [(null)] - 1006-- Input finish10/13/2017 14:15:26
+2017-10-13 14:29:36,257 [1] FATAL ProcessLogger [(null)] - System Start 10/13/2017 14:29:36
+2017-10-13 14:29:41,505 [3] FATAL ProcessLogger [(null)] - System Start 10/13/2017 14:29:41
+2017-10-13 14:29:41,506 [3] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 14:29:41
+2017-10-13 14:29:41,520 [3] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 14:29:41
+2017-10-13 14:29:43,607 [3] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 14:29:43
+2017-10-13 14:29:43,868 [3] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 14:29:43
+2017-10-13 15:04:50,657 [1] FATAL ProcessLogger [(null)] - System Start 10/13/2017 15:04:50
+2017-10-13 15:04:55,139 [3] FATAL ProcessLogger [(null)] - System Start 10/13/2017 15:04:55
+2017-10-13 15:04:55,139 [3] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 15:04:55
+2017-10-13 15:04:55,160 [3] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 15:04:55
+2017-10-13 15:04:57,691 [3] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 15:04:57
+2017-10-13 15:04:57,987 [3] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 15:04:57
+2017-10-13 15:09:28,486 [3] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 15:09:28
+2017-10-13 15:09:30,424 [3] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 15:09:30
+2017-10-13 15:09:30,689 [3] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 15:09:30
+2017-10-13 15:28:07,981 [1] FATAL ProcessLogger [(null)] - System Start 10/13/2017 15:28:07
+2017-10-13 15:28:13,045 [3] FATAL ProcessLogger [(null)] - System Start 10/13/2017 15:28:13
+2017-10-13 15:28:13,046 [3] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 15:28:13
+2017-10-13 15:28:13,092 [3] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 15:28:13
+2017-10-13 15:28:15,070 [3] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 15:28:15
+2017-10-13 15:28:15,322 [3] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 15:28:15
+2017-10-13 15:28:39,128 [3] FATAL ProcessLogger [(null)] - 1006-- Input finish10/13/2017 15:28:39
+2017-10-13 15:28:51,106 [1] FATAL ProcessLogger [(null)] - System Start 10/13/2017 15:28:51
+2017-10-13 15:28:56,826 [3] FATAL ProcessLogger [(null)] - System Start 10/13/2017 15:28:56
+2017-10-13 15:28:56,827 [3] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 15:28:56
+2017-10-13 15:28:56,874 [3] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 15:28:56
+2017-10-13 15:28:58,866 [3] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 15:28:58
+2017-10-13 15:28:59,012 [3] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 15:28:59
+2017-10-13 15:29:12,490 [3] FATAL ProcessLogger [(null)] - 1006-- Input finish10/13/2017 15:29:12
+2017-10-13 15:29:21,916 [3] FATAL ProcessLogger [(null)] - System Start 10/13/2017 15:29:21
+2017-10-13 15:29:21,916 [3] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 15:29:21
+2017-10-13 15:29:21,916 [3] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 15:29:21
+2017-10-13 15:29:23,855 [3] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 15:29:23
+2017-10-13 15:29:24,031 [3] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 15:29:24
+2017-10-13 15:30:43,528 [1] FATAL ProcessLogger [(null)] - System Start 10/13/2017 15:30:43
+2017-10-13 15:30:48,127 [3] FATAL ProcessLogger [(null)] - System Start 10/13/2017 15:30:48
+2017-10-13 15:30:48,127 [3] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 15:30:48
+2017-10-13 15:30:48,137 [3] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 15:30:48
+2017-10-13 15:30:50,190 [3] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 15:30:50
+2017-10-13 15:30:50,341 [3] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 15:30:50
+2017-10-13 15:32:22,812 [3] FATAL ProcessLogger [(null)] - 1006-- Input finish10/13/2017 15:32:22
+2017-10-13 15:49:46,777 [1] FATAL ProcessLogger [(null)] - System Start 10/13/2017 15:49:46
+2017-10-13 15:50:13,945 [1] FATAL ProcessLogger [(null)] - System Start 10/13/2017 15:50:13
+2017-10-13 15:50:37,408 [1] FATAL ProcessLogger [(null)] - System Start 10/13/2017 15:50:37
+2017-10-13 15:50:44,307 [3] FATAL ProcessLogger [(null)] - System Start 10/13/2017 15:50:44
+2017-10-13 15:50:44,308 [3] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 15:50:44
+2017-10-13 15:50:44,321 [3] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 15:50:44
+2017-10-13 15:50:46,245 [3] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 15:50:46
+2017-10-13 15:50:46,371 [3] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 15:50:46
+2017-10-13 15:52:36,799 [3] FATAL ProcessLogger [(null)] - 2301-- OPEN Tel 10/13/2017 15:52:36
+2017-10-13 15:52:43,865 [3] FATAL ProcessLogger [(null)] - 2801-- Save  10/13/2017 15:52:43
+2017-10-13 15:52:45,358 [3] FATAL ProcessLogger [(null)] - 1006-- Input finish10/13/2017 15:52:45
+2017-10-13 15:54:05,815 [3] FATAL ProcessLogger [(null)] - System Start 10/13/2017 15:54:05
+2017-10-13 15:54:05,815 [3] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 15:54:05
+2017-10-13 15:54:21,415 [1] FATAL ProcessLogger [(null)] - System Start 10/13/2017 15:54:21
+2017-10-13 15:54:26,659 [3] FATAL ProcessLogger [(null)] - System Start 10/13/2017 15:54:26
+2017-10-13 15:54:26,659 [3] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 15:54:26
+2017-10-13 15:54:26,681 [3] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 15:54:26
+2017-10-13 15:54:28,539 [3] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 15:54:28
+2017-10-13 15:54:28,686 [3] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 15:54:28
+2017-10-13 15:54:29,419 [3] FATAL ProcessLogger [(null)] - 2301-- OPEN Tel 10/13/2017 15:54:29
+2017-10-13 15:54:37,187 [3] FATAL ProcessLogger [(null)] - 2801-- Save  10/13/2017 15:54:37
+2017-10-13 15:54:42,694 [3] FATAL ProcessLogger [(null)] - 1006-- Input finish10/13/2017 15:54:42
+2017-10-13 15:55:53,552 [1] FATAL ProcessLogger [(null)] - System Start 10/13/2017 15:55:53
+2017-10-13 15:55:58,222 [3] FATAL ProcessLogger [(null)] - System Start 10/13/2017 15:55:58
+2017-10-13 15:55:58,223 [3] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 15:55:58
+2017-10-13 15:55:58,236 [3] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 15:55:58
+2017-10-13 15:56:00,249 [3] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 15:56:00
+2017-10-13 15:56:00,384 [3] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 15:56:00
+2017-10-13 15:56:07,114 [3] FATAL ProcessLogger [(null)] - 2301-- OPEN Tel 10/13/2017 15:56:07
+2017-10-13 15:56:14,433 [3] FATAL ProcessLogger [(null)] - 2801-- Save  10/13/2017 15:56:14
+2017-10-13 15:56:14,851 [3] FATAL ProcessLogger [(null)] - 1006-- Input finish10/13/2017 15:56:14
+2017-10-13 15:57:24,812 [1] FATAL ProcessLogger [(null)] - System Start 10/13/2017 15:57:24
+2017-10-13 15:57:30,505 [3] FATAL ProcessLogger [(null)] - System Start 10/13/2017 15:57:30
+2017-10-13 15:57:30,505 [3] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 15:57:30
+2017-10-13 15:57:30,516 [3] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 15:57:30
+2017-10-13 15:57:32,379 [3] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 15:57:32
+2017-10-13 15:57:32,520 [3] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 15:57:32
+2017-10-13 15:57:33,142 [3] FATAL ProcessLogger [(null)] - 2301-- OPEN Tel 10/13/2017 15:57:33
+2017-10-13 15:57:40,651 [3] FATAL ProcessLogger [(null)] - 2801-- Save  10/13/2017 15:57:40
+2017-10-13 15:57:41,061 [3] FATAL ProcessLogger [(null)] - 1006-- Input finish10/13/2017 15:57:41
+2017-10-13 15:58:32,516 [1] FATAL ProcessLogger [(null)] - System Start 10/13/2017 15:58:32
+2017-10-13 15:58:37,761 [3] FATAL ProcessLogger [(null)] - System Start 10/13/2017 15:58:37
+2017-10-13 15:58:37,761 [3] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 15:58:37
+2017-10-13 15:58:37,773 [3] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 15:58:37
+2017-10-13 15:58:39,715 [3] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 15:58:39
+2017-10-13 15:58:39,855 [3] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 15:58:39
+2017-10-13 15:58:40,474 [3] FATAL ProcessLogger [(null)] - 2301-- OPEN Tel 10/13/2017 15:58:40
+2017-10-13 15:58:48,210 [3] FATAL ProcessLogger [(null)] - 2801-- Save  10/13/2017 15:58:48
+2017-10-13 15:58:48,614 [3] FATAL ProcessLogger [(null)] - 1006-- Input finish10/13/2017 15:58:48
+2017-10-13 15:59:58,565 [1] FATAL ProcessLogger [(null)] - System Start 10/13/2017 15:59:58
+2017-10-13 16:00:04,370 [3] FATAL ProcessLogger [(null)] - System Start 10/13/2017 16:00:04
+2017-10-13 16:00:04,370 [3] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 16:00:04
+2017-10-13 16:00:04,380 [3] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 16:00:04
+2017-10-13 16:00:06,269 [3] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 16:00:06
+2017-10-13 16:00:06,406 [3] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 16:00:06
+2017-10-13 16:00:07,045 [3] FATAL ProcessLogger [(null)] - 2301-- OPEN Tel 10/13/2017 16:00:07
+2017-10-13 16:00:14,139 [3] FATAL ProcessLogger [(null)] - 2801-- Save  10/13/2017 16:00:14
+2017-10-13 16:00:15,557 [3] FATAL ProcessLogger [(null)] - 1006-- Input finish10/13/2017 16:00:15
+2017-10-13 16:01:11,663 [3] FATAL ProcessLogger [(null)] - System Start 10/13/2017 16:01:11
+2017-10-13 16:01:11,663 [3] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 16:01:11
+2017-10-13 16:01:11,663 [3] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 16:01:11
+2017-10-13 16:01:13,491 [3] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 16:01:13
+2017-10-13 16:01:13,617 [3] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 16:01:13
+2017-10-13 16:01:14,239 [3] FATAL ProcessLogger [(null)] - 2301-- OPEN Tel 10/13/2017 16:01:14
+2017-10-13 16:01:21,202 [3] FATAL ProcessLogger [(null)] - 2801-- Save  10/13/2017 16:01:21
+2017-10-13 16:01:21,592 [3] FATAL ProcessLogger [(null)] - 1006-- Input finish10/13/2017 16:01:21
+2017-10-13 16:03:22,083 [1] FATAL ProcessLogger [(null)] - System Start 10/13/2017 16:03:22
+2017-10-13 16:04:08,586 [1] FATAL ProcessLogger [(null)] - System Start 10/13/2017 16:04:08
+2017-10-13 16:04:16,998 [3] FATAL ProcessLogger [(null)] - System Start 10/13/2017 16:04:16
+2017-10-13 16:04:16,998 [3] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 16:04:16
+2017-10-13 16:04:17,013 [3] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 16:04:17
+2017-10-13 16:04:18,685 [3] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 16:04:18
+2017-10-13 16:04:18,818 [3] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 16:04:18
+2017-10-13 16:04:19,566 [3] FATAL ProcessLogger [(null)] - 2301-- OPEN Tel 10/13/2017 16:04:19
+2017-10-13 16:04:27,967 [3] FATAL ProcessLogger [(null)] - 2801-- Save  10/13/2017 16:04:27
+2017-10-13 16:04:28,390 [3] FATAL ProcessLogger [(null)] - 1006-- Input finish10/13/2017 16:04:28
+2017-10-13 16:05:12,177 [1] FATAL ProcessLogger [(null)] - System Start 10/13/2017 16:05:12
+2017-10-13 16:05:16,592 [3] FATAL ProcessLogger [(null)] - System Start 10/13/2017 16:05:16
+2017-10-13 16:05:16,592 [3] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 16:05:16
+2017-10-13 16:05:16,609 [3] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 16:05:16
+2017-10-13 16:05:18,546 [3] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 16:05:18
+2017-10-13 16:05:18,680 [3] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 16:05:18
+2017-10-13 16:05:19,285 [3] FATAL ProcessLogger [(null)] - 2301-- OPEN Tel 10/13/2017 16:05:19
+2017-10-13 16:05:26,314 [3] FATAL ProcessLogger [(null)] - 2801-- Save  10/13/2017 16:05:26
+2017-10-13 16:05:27,611 [3] FATAL ProcessLogger [(null)] - 1006-- Input finish10/13/2017 16:05:27
+2017-10-13 16:29:04,944 [1] FATAL ProcessLogger [(null)] - System Start 10/13/2017 16:29:04
+2017-10-13 16:31:02,464 [1] FATAL ProcessLogger [(null)] - System Start 10/13/2017 16:31:02
+2017-10-13 16:32:14,347 [1] FATAL ProcessLogger [(null)] - System Start 10/13/2017 16:32:14
+2017-10-13 16:32:20,926 [3] FATAL ProcessLogger [(null)] - System Start 10/13/2017 16:32:20
+2017-10-13 16:32:20,926 [3] FATAL ProcessLogger [(null)] - 1005--input kiajiang data10/13/2017 16:32:20
+2017-10-13 16:32:20,938 [3] FATAL ProcessLogger [(null)] - 1006-- Input C Data start10/13/2017 16:32:20
+2017-10-13 16:32:23,117 [3] FATAL ProcessLogger [(null)] - 2001-- OPEN 报关明细 10/13/2017 16:32:23
+2017-10-13 16:32:23,259 [3] FATAL ProcessLogger [(null)] - 20016-- Input C Data end10/13/2017 16:32:23
+2017-10-13 16:32:23,934 [3] FATAL ProcessLogger [(null)] - 2301-- OPEN Tel 10/13/2017 16:32:23
+2017-10-13 16:32:31,291 [3] FATAL ProcessLogger [(null)] - 2801-- Save  10/13/2017 16:32:31
+2017-10-13 16:32:31,713 [3] FATAL ProcessLogger [(null)] - 1006-- Input finish10/13/2017 16:32:31
+2017-10-13 16:33:01,034 [1] FATAL ProcessLogger [(null)] - System Start 10/13/2017 16:33:01
+2017-10-13 16:35:29,462 [1] FATAL ProcessLogger [(null)] - System Start 10/13/2017 16:35:29

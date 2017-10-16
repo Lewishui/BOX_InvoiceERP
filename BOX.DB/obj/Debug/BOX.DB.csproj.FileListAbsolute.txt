@@ -1,0 +1,5 @@
+C:\mysteap\work_office\ProjectOut\BJ 箱单发票报关明细\BOX_InvoiceERP\BOX.DB\bin\Debug\BOX.DB.dll
+C:\mysteap\work_office\ProjectOut\BJ 箱单发票报关明细\BOX_InvoiceERP\BOX.DB\bin\Debug\BOX.DB.pdb
+C:\mysteap\work_office\ProjectOut\BJ 箱单发票报关明细\BOX_InvoiceERP\BOX.DB\obj\Debug\BOX.DB.dll
+C:\mysteap\work_office\ProjectOut\BJ 箱单发票报关明细\BOX_InvoiceERP\BOX.DB\obj\Debug\BOX.DB.pdb
+C:\mysteap\work_office\ProjectOut\BJ 箱单发票报关明细\BOX_InvoiceERP\BOX.DB\obj\Debug\BOX.DB.csprojResolveAssemblyReference.cache
